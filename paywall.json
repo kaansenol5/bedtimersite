@@ -1,0 +1,51 @@
+{
+  "heroIcon": "moon.stars.fill",
+  "heroTitle": "Wake up as your\nbest self",
+  "heroSubtitle": "Transform your nights.\nTransform your life.",
+  "benefits": [
+    {
+      "icon": "brain.head.profile",
+      "title": "Sharper mind every morning",
+      "description": "Wake up clear, focused, ready to conquer"
+    },
+    {
+      "icon": "sparkles",
+      "title": "More energy, more life",
+      "description": "Feel the difference good sleep makes"
+    },
+    {
+      "icon": "heart.fill",
+      "title": "Finally feel rested",
+      "description": "No more exhausted afternoons"
+    },
+    {
+      "icon": "figure.walk",
+      "title": "Show up as your best",
+      "description": "For yourself, your work, the people you love"
+    }
+  ],
+  "packages": [
+    {
+      "packageType": "annual",
+      "badge": "BEST VALUE",
+      "trialDays": 3,
+      "displayFirst": true
+    },
+    {
+      "packageType": "monthly",
+      "badge": "POPULAR",
+      "trialDays": null,
+      "displayFirst": false
+    },
+    {
+      "packageType": "weekly",
+      "badge": null,
+      "trialDays": null,
+      "displayFirst": false
+    }
+  ],
+  "otherOptionsText": "Other options",
+  "ctaText": "Continue",
+  "ctaTextWithTrial": "Start {days}-Day Trial",
+  "restoreText": "Restore Purchases"
+}
