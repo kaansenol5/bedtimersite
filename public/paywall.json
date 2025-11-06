@@ -34,7 +34,7 @@
     {
       "packageType": "monthly",
       "badge": "POPULAR",
-      "trialDays": null,
+      "trialDays": 3,
       "displayFirst": false
     },
     {
