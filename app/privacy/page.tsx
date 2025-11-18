@@ -19,12 +19,12 @@ export default function Privacy() {
           <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
             <Image
               src="/icon-dark.png"
-              alt="Bedtimer"
+              alt="Nightshade"
               width={40}
               height={40}
               className="rounded-lg"
             />
-            <span className="text-lg font-semibold">Bedtimer</span>
+            <span className="text-lg font-semibold">Nightshade</span>
           </Link>
         </div>
       </header>
@@ -48,7 +48,7 @@ export default function Privacy() {
             <section className="space-y-4">
               <h2 className="text-2xl md:text-3xl font-semibold">Your Privacy Matters</h2>
               <p className="text-lg leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
-                Bedtimer is built with privacy at its core. We believe your sleep data is personal and should stay that way.
+                Nightshade is built with privacy at its core. We believe your sleep data is personal and should stay that way.
               </p>
             </section>
 
@@ -76,7 +76,7 @@ export default function Privacy() {
             <section className="space-y-4">
               <h2 className="text-2xl md:text-3xl font-semibold">Screen Time Integration</h2>
               <p className="text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
-                Bedtimer uses Apple's Screen Time API to block apps during your scheduled bedtime. This API is designed
+                Nightshade uses Apple's Screen Time API to block apps during your scheduled bedtime. This API is designed
                 with privacy in mind—all app blocking happens locally on your device through iOS. Apple does not share
                 your Screen Time data with us.
               </p>
@@ -105,7 +105,7 @@ export default function Privacy() {
               <h2 className="text-2xl md:text-3xl font-semibold">Third-Party Services</h2>
               <div className="space-y-4 text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
                 <p>
-                  To provide and improve Bedtimer, we use the following third-party services:
+                  To provide and improve Nightshade, we use the following third-party services:
                 </p>
 
                 <div className="space-y-4">
@@ -189,7 +189,7 @@ export default function Privacy() {
             <section className="space-y-4">
               <h2 className="text-2xl md:text-3xl font-semibold">Children's Privacy</h2>
               <p className="text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
-                Bedtimer does not knowingly collect any information from anyone, including children under 13.
+                Nightshade does not knowingly collect any information from anyone, including children under 13.
                 The app is designed to work entirely offline with local storage only.
               </p>
             </section>
@@ -207,7 +207,7 @@ export default function Privacy() {
             <section className="space-y-4">
               <h2 className="text-2xl md:text-3xl font-semibold">Questions?</h2>
               <p className="text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
-                If you have any questions about this privacy policy or how Bedtimer handles your data,
+                If you have any questions about this privacy policy or how Nightshade handles your data,
                 please contact us through the App Store.
               </p>
             </section>

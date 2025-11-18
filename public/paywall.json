@@ -29,18 +29,18 @@
       "packageType": "annual",
       "badge": "BEST VALUE",
       "trialDays": 7,
-      "displayFirst": true
+      "displayFirst": false
     },
     {
       "packageType": "monthly",
       "badge": "POPULAR",
-      "trialDays": 3,
-      "displayFirst": false
+      "trialDays": 7,
+      "displayFirst": true
     },
     {
       "packageType": "weekly",
       "badge": null,
-      "trialDays": null,
+      "trialDays": 7,
       "displayFirst": false
     }
   ],

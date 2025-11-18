@@ -19,12 +19,12 @@ export default function Terms() {
           <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
             <Image
               src="/icon-dark.png"
-              alt="Bedtimer"
+              alt="Nightshade"
               width={40}
               height={40}
               className="rounded-lg"
             />
-            <span className="text-lg font-semibold">Bedtimer</span>
+            <span className="text-lg font-semibold">Nightshade</span>
           </Link>
         </div>
       </header>
@@ -49,10 +49,10 @@ export default function Terms() {
               <h2 className="text-2xl md:text-3xl font-semibold">License Agreement</h2>
               <div className="space-y-4 text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
                 <p>
-                  By downloading and using Bedtimer, you agree to be bound by Apple's Standard End User License Agreement (EULA).
+                  By downloading and using Nightshade, you agree to be bound by Apple's Standard End User License Agreement (EULA).
                 </p>
                 <p>
-                  Bedtimer is licensed, not sold, to you for use strictly in accordance with the terms of this agreement.
+                  Nightshade is licensed, not sold, to you for use strictly in accordance with the terms of this agreement.
                 </p>
               </div>
             </section>
@@ -89,7 +89,7 @@ export default function Terms() {
             <section className="space-y-4">
               <h2 className="text-2xl md:text-3xl font-semibold">Acceptable Use</h2>
               <div className="space-y-4 text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
-                <p>You agree to use Bedtimer only for lawful purposes and in accordance with this agreement. You agree not to:</p>
+                <p>You agree to use Nightshade only for lawful purposes and in accordance with this agreement. You agree not to:</p>
                 <ul className="list-disc list-inside space-y-2 ml-4">
                   <li>Attempt to reverse engineer, decompile, or disassemble the app</li>
                   <li>Use the app in any way that violates applicable laws or regulations</li>
@@ -104,12 +104,12 @@ export default function Terms() {
               <h2 className="text-2xl md:text-3xl font-semibold">Disclaimer</h2>
               <div className="space-y-4 text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
                 <p>
-                  Bedtimer is provided "as is" without warranties of any kind, either express or implied.
+                  Nightshade is provided "as is" without warranties of any kind, either express or implied.
                   While we strive to provide a reliable service, we do not guarantee that the app will be
                   error-free or uninterrupted.
                 </p>
                 <p>
-                  Bedtimer is designed to help you build better sleep habits, but it is not a substitute
+                  Nightshade is designed to help you build better sleep habits, but it is not a substitute
                   for professional medical advice. If you have sleep disorders or health concerns, please
                   consult a healthcare professional.
                 </p>
@@ -123,7 +123,7 @@ export default function Terms() {
                 To the maximum extent permitted by law, Kaan Senol shall not be liable for any indirect,
                 incidental, special, consequential, or punitive damages, or any loss of profits or revenues,
                 whether incurred directly or indirectly, or any loss of data, use, goodwill, or other
-                intangible losses resulting from your use of Bedtimer.
+                intangible losses resulting from your use of Nightshade.
               </p>
             </section>
 
@@ -132,7 +132,7 @@ export default function Terms() {
               <h2 className="text-2xl md:text-3xl font-semibold">Screen Time Requirements</h2>
               <div className="space-y-4 text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
                 <p>
-                  Bedtimer requires iOS 16 or later and uses Apple's Screen Time API to function.
+                  Nightshade requires iOS 16 or later and uses Apple's Screen Time API to function.
                   You must grant the app permission to use Screen Time features. If you revoke these
                   permissions, the app will not be able to block apps during bedtime.
                 </p>
@@ -149,7 +149,7 @@ export default function Terms() {
               <p className="text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
                 We may update these terms from time to time. If we make material changes, we will notify
                 you through the app or update this page with a new "Last updated" date. Your continued
-                use of Bedtimer after changes become effective constitutes your acceptance of the revised terms.
+                use of Nightshade after changes become effective constitutes your acceptance of the revised terms.
               </p>
             </section>
 
@@ -157,7 +157,7 @@ export default function Terms() {
             <section className="space-y-4">
               <h2 className="text-2xl md:text-3xl font-semibold">Termination</h2>
               <p className="text-base leading-relaxed" style={{ color: 'var(--color-text-secondary)' }}>
-                You may stop using Bedtimer at any time by deleting the app from your device. We reserve
+                You may stop using Nightshade at any time by deleting the app from your device. We reserve
                 the right to terminate or suspend your access to the app if you violate these terms.
               </p>
             </section>

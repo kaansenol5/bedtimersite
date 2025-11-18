@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Bedtimer - Block Apps, Sleep Better",
+  title: "Nightshade - Block Apps, Sleep Better",
   description: "Automatically block distracting apps during bedtime. No willpower required. iOS app with Screen Time integration.",
   icons: {
     icon: '/icon-light.png',

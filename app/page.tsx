@@ -51,7 +51,7 @@ export default function Home() {
           >
             <Image
               src="/icon-dark.png"
-              alt="Bedtimer App Icon"
+              alt="Nightshade App Icon"
               width={120}
               height={120}
               className="rounded-3xl"
@@ -322,7 +322,7 @@ export default function Home() {
               className="text-lg md:text-xl leading-relaxed"
               style={{ color: 'var(--color-text-secondary)' }}
             >
-              Bedtimer uses Apple's Screen Time API. No data collection, no tracking, no servers.
+              Nightshade uses Apple's Screen Time API. No data collection, no tracking, no servers.
               Everything happens locally on your iPhone.
             </p>
           </motion.div>
@@ -350,7 +350,7 @@ export default function Home() {
               className="text-xl md:text-2xl"
               style={{ color: 'var(--color-text-secondary)' }}
             >
-              Download Bedtimer on the App Store
+              Download Nightshade on the App Store
             </motion.p>
 
             <motion.div variants={fadeInUp} className="pt-4">
@@ -362,7 +362,7 @@ export default function Home() {
                   color: '#000000'
                 }}
               >
-                Get Bedtimer
+                Get Nightshade
               </a>
             </motion.div>
 
@@ -386,13 +386,13 @@ export default function Home() {
           <div className="flex justify-center">
             <Image
               src="/icon-dark.png"
-              alt="Bedtimer"
+              alt="Nightshade"
               width={48}
               height={48}
               className="rounded-xl opacity-80"
             />
           </div>
-          <p className="text-lg font-medium">Bedtimer</p>
+          <p className="text-lg font-medium">Nightshade</p>
 
           <div className="flex items-center justify-center gap-4 text-sm">
             <Link
